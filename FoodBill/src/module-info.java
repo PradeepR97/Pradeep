@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author honey
- *
- */
-module FoodBill {
-}
